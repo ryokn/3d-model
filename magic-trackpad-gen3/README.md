@@ -1,15 +1,19 @@
 # Magic Trackpad Gen3 スタンド
 
-Apple Magic Trackpad（Gen 3）用の3Dプリント可能なスタンド（台座）モデルです。
+Apple Magic Trackpad（USB-C, Gen 3）用の3Dプリント可能なチルトスタンド（オープンフレーム）モデルです。
+
+MakerWorldに公開済みです。
+
+**Magic Trackpad USB-C Tilt Stand (Open Frame)**
+https://makerworld.com/ja/models/3293050-magic-trackpad-usb-c-tilt-stand-open-frame
 
 ## ファイル
 
 | ファイル名 | フォーマット | 三角形数 | サイズ (X × Y × Z) |
 | --- | --- | --- | --- |
-| `magic_trackpad_stand_v11_ledge_1.stl` | Binary STL | 704 | 162.4 × 117.3 × 20.0 mm |
+| `magic_trackpad_stand_v13.stl` | Binary STL | 616 | 162.4 × 117.3 × 20.0 mm |
 
-- `v11`: 設計バージョン11
-- `ledge`: トラックパッドを縁（ledge）で支える形状のバリエーション
+最新モデル（v13）のみを管理しています。古いバージョンはMakerWorldのモデルページを参照してください。
 
 ## 使い方
 
